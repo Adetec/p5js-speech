@@ -1,8 +1,10 @@
 <html>
 <head>
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.5/p5.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/addons/p5.dom.js"></script>
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.5/p5.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/addons/p5.dom.js"></script> -->
+	<script src="../lib/p5.min.js"></script>
+	<script src="../lib/p5.dom.js"></script>
 	<script src="../lib/p5.speech.js"></script>
 	<script>
 
