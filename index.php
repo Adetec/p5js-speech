@@ -29,7 +29,7 @@
 
 	function draw()
 	{
-	  myRec = "";
+	  myRec = null;
 		myRec.onResult = showResult;
 		myRec.start();
 		// why draw when you can talk?
