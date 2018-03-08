@@ -37,7 +37,6 @@
 	function showResult()
 	{
 		if(myRec.resultValue==true) {
-		    myRec.resultString = null;
 			// background(192, 255, 192);
 			text(myRec.resultString, width/2, height/2);
 			console.log(myRec.resultString);
