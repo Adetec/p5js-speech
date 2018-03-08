@@ -38,7 +38,8 @@
 	{
 		if(myRec.resultValue==true) {
 			// background(192, 255, 192);
-			text(myRec.resultString, width/2, height/2);
+// 			text(myRec.resultString, width/2, height/2);
+			text(myRec, width/2, height/2);
 			console.log(myRec.resultString);
 		}
 	}
