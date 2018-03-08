@@ -21,7 +21,7 @@
 		// instructions:
 		textSize(32);
 		textAlign(CENTER);
-		myRec = "";
+		// myRec = "";
 		// text("say something", width/2, height/2);
 		// myRec.onResult = showResult;
 		// myRec.start();
@@ -29,6 +29,7 @@
 
 	function draw()
 	{
+	  myRec = "";
 		myRec.onResult = showResult;
 		myRec.start();
 		// why draw when you can talk?
