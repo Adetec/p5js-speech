@@ -25,7 +25,7 @@
 		// text("say something", width/2, height/2);
 		// myRec.onResult = showResult;
 		// myRec.start();
-		myRec.resultString = "";
+		myRec.resultString = null;
 	}
 
 	function draw()
